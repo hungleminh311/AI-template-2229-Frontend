@@ -1,0 +1,50 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Our highly anticipated gambling event launches in 2024! Join us for an unforgettable experience.",
+        "linkText": "Learn More \u0026 Register"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover a World Where Bets Meet Brilliance in Sophisticated Design",
+        "title": "Elevate Your Game with Artful Precision"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a World Where Bets Meet Brilliance in Sophisticated Design",
+        "title": "Elevate Your Game with Artful Precision"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover a World Where Bets Meet Brilliance in Sophisticated Design",
+        "title": "Elevate Your Game with Artful Precision"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover a World Where Bets Meet Brilliance in Sophisticated Design",
+        "title": "Elevate Your Game with Artful Precision"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover a World Where Bets Meet Brilliance in Sophisticated Design",
+        "title": "Elevate Your Game with Artful Precision"
+      }
+    }
+  ],
+  "theme": "neo-brutal",
+  "font": "",
+  "title": "Elevate Your Game with Artful Precision",
+  "subtitle": "Discover a World Where Bets Meet Brilliance in Sophisticated Design"
+}
